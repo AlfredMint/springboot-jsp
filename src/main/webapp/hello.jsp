@@ -6,6 +6,6 @@
     <title>Hello</title>
 </head>
 <body>
-    Hello ${name}
+    I´m the king of the ${name}
 </body>
 </html>
